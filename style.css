@@ -1,0 +1,36 @@
+body{
+    background-size: cover; 
+}
+
+.heading{
+    font-size: 38px;
+    width: 100%;
+    margin: 0;
+}
+
+#input{
+    width: 200px;
+    height: 50px;
+    text-align: center;
+}
+
+#status, #detail{
+    font-size : 20px;
+    display: inline;
+}
+
+#detail {
+    margin-left: 10px;
+}
+
+#status {
+    margin-left: 10px;
+}
+
+canvas{
+    margin-top: 187px;
+    border: 5px ridge #fff;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px aquamarine;
+    background-color: #fff;
+}
